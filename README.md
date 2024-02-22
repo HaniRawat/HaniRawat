@@ -1,6 +1,7 @@
+- 2nd Year Computer Science Student @ MRIIRS
 - 👋 Hi, I’m @HaniRawat
 - 👀 I’m interested in development,DSA,programming
-- 🌱 I’m currently learning C++
+
 - 📫 Instagram: username- hani.rawat
 
 <!---
