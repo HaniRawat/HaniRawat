@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 2nd Year Computer Science Student @ MRIIRS<br>🔧 I'm currently working on a RazorPay clone<br>👀 I’m interested in Web development & DSA
+🏫 3rd Year Computer Science Student @ MRIIRS<br>🔧 I'm currently working on a RazorPay clone<br>👀 I’m interested in Web development & DSA
 
 
 ## 🌐 Socials:
