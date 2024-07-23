@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey, I'm Hani Singh Rawat:
 🏫 3rd Year Computer Science Student @ MRIIRS<br>👀 I’m interested in Web development & DSA
 
 
