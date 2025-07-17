@@ -1,5 +1,5 @@
 # 💫 Hey, Hani here:
-🏫 3rd Year Computer Science Student @ MRIIRS<br>👀 I’m interested in Web development & DSA
+🏫 Final Year Computer Science Student @ MRIIRS<br>👀 I’m interested in Web development & DSA
 
 
 ## 🌐 Socials:
