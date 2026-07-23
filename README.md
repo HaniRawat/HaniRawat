@@ -1,5 +1,5 @@
 # 💫 Hey, Hani here:
-🏫 Final Year Computer Science Student @ MRIIRS<br>👀 I’m interested in Web development & DSA
+🏫 SDE Intern @ Novelvox<br>👀 I’m interested in Web development & DSA
 
 
 ## 🌐 Socials:
