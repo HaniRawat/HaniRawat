@@ -1,5 +1,5 @@
 # 💫 Hey, Hani here:
-🏫 SDE Intern @ Novelvox<br>👀 I’m interested in Web development & DSA
+🏫 Associate Software Developer @ Novelvox<br>👀 I’m interested in Web development & DSA
 
 
 ## 🌐 Socials:
